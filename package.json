@@ -1,0 +1,1 @@
+{"description":"Ember & Anvil — an original 2D canvas forge-master arcade game for make.fun best-game-01.","license":"MIT","name":"ember-and-anvil","private":true,"scripts":{"build":"mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts","serve":"node serve.ts"},"type":"module","version":"1.0.0"}
